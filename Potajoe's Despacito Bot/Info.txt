@@ -1,0 +1,14 @@
+To activate the script, double click,
+Select a text box (works best on Twitch or Discord),
+Press "5" on the keypad to start the typing,
+Leave it to do it's thing!
+
+DO NOT use this bot for trolling.
+
+Editing of the code IS allowed but you must keep credit from me in (unless you have changed EVERYTHING).
+
+Please keep in mind that you can not use your computer while it is running.
+
+Created in AutoHotkey.
+
+To disable the script, close the AutoHotkey script in Task Manager.
